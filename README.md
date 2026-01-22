@@ -73,7 +73,7 @@ BlueprintFundamental/
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/BlueprintFundamental.git
+   git clone https://github.com/syedayeshulhassanbukhari/BlueprintFundamental.git
    ```
 
 2. Navigate to the project folder
